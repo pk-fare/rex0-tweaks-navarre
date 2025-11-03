@@ -4,6 +4,7 @@ A Tweak of the Moveset for Navarre in Super Smash Rex. Below you can find a Vide
 # OVERVIEW VIDEO
 
 [ZeroFaultz Navarre Tweaks Overview Video.](https://youtu.be/6CTFHoGeDgo?si=T2SjVpr7pzqlpE8E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6CTFHoGeDgo?si=T2SjVpr7pzqlpE8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Change-Log
 
