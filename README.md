@@ -1,11 +1,13 @@
-# rex0-tweaks-navarre
+# Rex0 Tweaks: Navarre
 A Tweak of the Moveset for Navarre in Super Smash Rex. Below you can find a Video detailing the changes done to Navarre in my Tweaks, as well as the exact changes done.
 
 # OVERVIEW VIDEO
 
+[ZeroFaultz Navarre Tweaks Overview Video.](https://youtu.be/6CTFHoGeDgo?si=T2SjVpr7pzqlpE8E)
+
 # Change-Log
 
-## Version 1
+### Version 1
 
 - Jab 
 
