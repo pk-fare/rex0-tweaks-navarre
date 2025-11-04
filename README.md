@@ -11,7 +11,8 @@ His frame data, attributes and damage output seems to indicate that as a sword f
 Despite this, Navarre sometimes feels as though something is missing within his Kit to make him feel completely unique in how he handles opponents. As well as a glaring issue in terms of how Navarre functions.
 Two problems I look to tackle personally here.
 
-- Navarre's Attack Hitboxes and Range. Navarre has a a large sword, and a significantly smaller dagger. Both of these tools are disjointed quite a bit, as surprisingly active. This can lead to characters being hit in positions where it does not seem correct.
+- Navarre's Attack Hitboxes and Range. Navarre has a large sword, and a significantly smaller dagger. Both of these tools are disjointed quite a bit, as well as surprisingly active. 
+This can lead to characters being hit in positions where it does not seem correct.
 This affects game feel rather extensively for both Navarre and his opponent. I'd like to retract some of that disjoint to promote a closer game of combat during gameplay. As well as provide a bit of leighway toward the opponent. Allowing for closer punishes even if by a short bit.
 
 - Navarre's Movement Options. Not specifically his attributes, but his movement when using Side Special. On the ground and the Air the Special can feel a little stiff, more notably in the Air. Causing a bit of clunkiness when using this variant of the move 
