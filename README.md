@@ -24,7 +24,96 @@ With these changes, I hope to make Navarre a more interesting character who thri
 
 # Change-Log
 
-### Version 1
+<details><summary>Tweaks Update 1.0: Balance Adjustments and P+ Design Attempts</summary>
+
+- Jab
+
+Changed Damage from 4 to 5
+Changed Jab Startup, used to be Frame 3 is Now Frame 5.
+Changed IASA from Frame 25 to Frame 26
+Changed Base Knockback from 60 to 35
+Changed Knockback Growth from 60 to 55
+
+- Dash Attack
+
+Changed IASA from Frame 49 to Frame 52.
+
+- Forward Tilt
+
+Changed IASA from Frame 29 to Frame 32
+
+- Up Tilt
+
+Changed IASA from Frame 31 to Frame 34
+
+- Down Tilt
+
+Changed IASA from Frame 20 to Frame 24
+
+- Forward Smash 2
+
+Changed IASA from Frame 31 to Frame 40
+
+- Down Smash 
+
+Changed Second Hit Base Knockback from 76 to 58
+Changed Second Hit Knockback Growth from 95 to 80
+Changed IASA from Frame 46 to Frame 52
+
+- Neutral Air
+
+Reduced Knockback Growth from 122 to 116
+Changed Landing Lag from 16(8) to 18(9)
+
+- Back Air
+
+Reduced Knockback Growth from 105 to 102
+
+- Forward Throw
+
+Changed Angle from 50 to 54
+Changed Base Knockback from 60 to 90
+Changed Knockback Growth from 60 to 68
+
+- Back Throw
+
+Changed Damage from 4 to 5
+Changed Angle from 63 to 51
+Changed Base Knockback from 70 to 80
+Changed Knockback Growth from 60 to 70
+
+- Up Throw
+
+Changed Damage from 4 to 6
+Changed Angle from 87 to 85
+Changed Base Knockback from 60 to 75
+Changed Knockback Growth from 130 to 110
+
+
+- Down Throw
+
+Changed Angle from 70 to 58
+Changed Base Knockback from 65 to 85
+Changed Knockback Growth from 110 to 90
+
+
+- Side Special (Ground)
+    ->  Side Special (Special Variation)
+
+Secondary Attack changed IASA from Frame 31 to Frame 40
+Secondary Attack changed Base Knockback from 82 to 78
+
+- Up Special 2 (Descent)
+
+Moved late Hitboxes to frame 27.
+Added Middle hitboxes that send at angle 361 with 7 Damage, 96 Knockback Growth, and 70 Base Knockback at frame 24
+
+- Up Special 3 (Landing) 
+
+Adding Landing Hitbox that last for 5 frames starting at frame 1.
+This hitbox being: 6 Damage, 80 Knockback Growth, 50 Base Knockback and 0.5 Hitlag Multiplier</details>
+
+<details><summary>Tweakes Release: Hitbox Adjustments and Mechanical Additions. </summary>
 
 - Jab 
 
@@ -98,4 +187,4 @@ Changed the angle of the hitboxes to angle 114 from angle 30.
 
 - Side Special (Air)
 
-Allowed Specific Interrupt, Air Dodge at frame 4.0
+Allowed Specific Interrupt, Air Dodge at frame 4.0</details>
